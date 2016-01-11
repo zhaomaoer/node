@@ -1,0 +1,53 @@
+{
+  "name": "passport-weixin",
+  "version": "0.0.3",
+  "description": "passport oauth2 strategy for weixin",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "passport",
+    "weixin",
+    "oauth2",
+    "strategy"
+  ],
+  "author": {
+    "name": "Treri"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "passport-oauth2": "^1.1.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Treri/passport-weixin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Treri/passport-weixin/issues"
+  },
+  "homepage": "https://github.com/Treri/passport-weixin",
+  "gitHead": "5d60ec2becb2732f894b565778d3c187b3f398e2",
+  "_id": "passport-weixin@0.0.3",
+  "_shasum": "2580352b85d71992963805797a4b285219f17ac1",
+  "_from": "passport-weixin@*",
+  "_npmVersion": "2.14.7",
+  "_nodeVersion": "4.2.1",
+  "_npmUser": {
+    "name": "treri",
+    "email": "treri.liu@gmail.com"
+  },
+  "dist": {
+    "shasum": "2580352b85d71992963805797a4b285219f17ac1",
+    "tarball": "http://registry.npmjs.org/passport-weixin/-/passport-weixin-0.0.3.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "treri",
+      "email": "treri.liu@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/passport-weixin/-/passport-weixin-0.0.3.tgz"
+}

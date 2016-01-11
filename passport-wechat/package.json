@@ -1,0 +1,64 @@
+{
+  "name": "passport-wechat",
+  "version": "2.0.0",
+  "main": "lib/index.js",
+  "description": "passport strategy for authenticating with wechat",
+  "homepage": "http://www.liangyali.com",
+  "bugs": {
+    "url": "https://github.com/liangyali/passport-wechat/issues"
+  },
+  "author": {
+    "name": "liangyali",
+    "email": "me@liangyali.com",
+    "url": "http://www.liangyali.com"
+  },
+  "scripts": {
+    "eslint": "eslint ./app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liangyali/passport-wechat.git"
+  },
+  "license": "MIT",
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "passport",
+    "wechat",
+    "weixin"
+  ],
+  "devDependencies": {
+    "eslint": "^1.4.1"
+  },
+  "dependencies": {
+    "debug": "latest",
+    "passport": "^0.3.0",
+    "passport-strategy": "^1.0.0",
+    "wechat-oauth": "^1.0.1",
+    "xtend": "^4.0.0"
+  },
+  "gitHead": "42b3a7ea20e20225cfd43c35c140d5e7e84b5a1e",
+  "_id": "passport-wechat@2.0.0",
+  "_shasum": "9e452327bc84dc71ae375487f8fa2095af057232",
+  "_from": "passport-wechat@*",
+  "_npmVersion": "2.14.2",
+  "_nodeVersion": "4.0.0",
+  "_npmUser": {
+    "name": "liangyali",
+    "email": "me@liangyali.com"
+  },
+  "dist": {
+    "shasum": "9e452327bc84dc71ae375487f8fa2095af057232",
+    "tarball": "http://registry.npmjs.org/passport-wechat/-/passport-wechat-2.0.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "liangyali",
+      "email": "me@liangyali.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/passport-wechat/-/passport-wechat-2.0.0.tgz",
+  "readme": "ERROR: No README data found!"
+}

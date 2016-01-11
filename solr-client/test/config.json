@@ -1,0 +1,9 @@
+{
+  "client": {
+    "host": "http://42.96.209.192",
+    "port": 8984,
+    "path": "/solr",
+    "core": "solr-client-test",
+    "solrVersion": "4.0"
+  }
+}
